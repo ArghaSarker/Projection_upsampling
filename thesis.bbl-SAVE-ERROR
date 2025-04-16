@@ -1,0 +1,1192 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{rdl_main}{article}{}
+      \name{author}{16}{}{%
+        {{hash=92ff51ddaadbf5035fa0c4ce5e16841e}{%
+           family={Qiao},
+           familyi={Q\bibinitperiod},
+           given={Chang},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e16c2dbc9de83b1e4abe905d2b6d3045}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Di},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bc6c6f66f139beef784a50d9f1485019}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=5769a77ddcad7aa50ef54d00736ed354}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Siwei},
+           giveni={S\bibinitperiod}}}%
+        {{hash=aa65a228b2be56cb876f0b2e1ef98a3e}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Kan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c2b4d5e33e17c7fe5a8dd2d261735cae}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Chong},
+           giveni={C\bibinitperiod}}}%
+        {{hash=0848f34af9a25e76c04e6c63a9929127}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Yuting},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=fcb33f0c8626d335119785afb031c1db}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=0b543cd23433740998f38f9786089356}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Chuyu},
+           giveni={C\bibinitperiod}}}%
+        {{hash=be33d74fcb297deee4a8f12367baa4de}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Nan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=279c5013408e21aac2c93a87ea9671c8}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Yunmin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=fe51fe8e6f2fdb72372309f808ac2a76}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Kangmin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=674ed094befbcd4e3b8c13cbb8f13de9}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Xueliang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=3db42c1df79c3427c0137c2e3384a368}{%
+           family={Lippincott-Schwartz},
+           familyi={L\bibinithyphendelim S\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d83edf2dbb3c07dbf92abbdcaa5c5ed2}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Qionghai},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=ecfd1d34e9c9c1aec231ae3da61ff906}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Dong},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b827b5688ac3d9d56488a956f9595756}
+      \strng{fullhash}{a32fb5b20fb4e9af25e62ef31e118085}
+      \strng{bibnamehash}{b827b5688ac3d9d56488a956f9595756}
+      \strng{authorbibnamehash}{b827b5688ac3d9d56488a956f9595756}
+      \strng{authornamehash}{b827b5688ac3d9d56488a956f9595756}
+      \strng{authorfullhash}{a32fb5b20fb4e9af25e62ef31e118085}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Biotechnology}
+      \field{month}{10}
+      \field{number}{3}
+      \field{title}{{Rationalized deep learning super-resolution microscopy for sustained live imaging of rapid subcellular processes}}
+      \field{volume}{41}
+      \field{year}{2022}
+      \field{pages}{367\bibrangedash 377}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1038/s41587-022-01471-3
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41587-022-01471-3
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41587-022-01471-3
+      \endverb
+    \endentry
+    \entry{wu-2018}{article}{}
+      \name{author}{2}{}{%
+        {{hash=88e8cfbf50f1e38cc25d675619ea7e2a}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yicong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=37ce6c04176d0a44d344a61918ddf492}{%
+           family={Shroff},
+           familyi={S\bibinitperiod},
+           given={Hari},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{e9c00292e3ca3f4e60af4db62b7688cf}
+      \strng{fullhash}{e9c00292e3ca3f4e60af4db62b7688cf}
+      \strng{bibnamehash}{e9c00292e3ca3f4e60af4db62b7688cf}
+      \strng{authorbibnamehash}{e9c00292e3ca3f4e60af4db62b7688cf}
+      \strng{authornamehash}{e9c00292e3ca3f4e60af4db62b7688cf}
+      \strng{authorfullhash}{e9c00292e3ca3f4e60af4db62b7688cf}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Methods}
+      \field{month}{11}
+      \field{number}{12}
+      \field{title}{{Faster, sharper, and deeper: structured illumination microscopy for biological imaging}}
+      \field{volume}{15}
+      \field{year}{2018}
+      \field{pages}{1011\bibrangedash 1019}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/s41592-018-0211-z
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41592-018-0211-z
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41592-018-0211-z
+      \endverb
+    \endentry
+    \entry{abbe}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c01908910ce40ed9fc88e79eba6289a1}{%
+           family={Abbe},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c01908910ce40ed9fc88e79eba6289a1}
+      \strng{fullhash}{c01908910ce40ed9fc88e79eba6289a1}
+      \strng{bibnamehash}{c01908910ce40ed9fc88e79eba6289a1}
+      \strng{authorbibnamehash}{c01908910ce40ed9fc88e79eba6289a1}
+      \strng{authornamehash}{c01908910ce40ed9fc88e79eba6289a1}
+      \strng{authorfullhash}{c01908910ce40ed9fc88e79eba6289a1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archiv für Mikroskopische Anatomie}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{{Beiträge zur Theorie des Mikroskops und der mikroskopischen Wahrnehmung}}
+      \field{volume}{9}
+      \field{year}{1873}
+      \field{pages}{413\bibrangedash 468}
+      \range{pages}{56}
+      \verb{doi}
+      \verb 10.1007/bf02956173
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/bf02956173
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/bf02956173
+      \endverb
+    \endentry
+    \entry{gustafson}{article}{}
+      \name{author}{1}{}{%
+        {{hash=17dd2ff5385eb7023a03d305a43f5740}{%
+           family={Gustafsson},
+           familyi={G\bibinitperiod},
+           given={M.\bibnamedelimi G.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{17dd2ff5385eb7023a03d305a43f5740}
+      \strng{fullhash}{17dd2ff5385eb7023a03d305a43f5740}
+      \strng{bibnamehash}{17dd2ff5385eb7023a03d305a43f5740}
+      \strng{authorbibnamehash}{17dd2ff5385eb7023a03d305a43f5740}
+      \strng{authornamehash}{17dd2ff5385eb7023a03d305a43f5740}
+      \strng{authorfullhash}{17dd2ff5385eb7023a03d305a43f5740}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Microscopy}
+      \field{month}{5}
+      \field{number}{2}
+      \field{title}{{Surpassing the lateral resolution limit by a factor of two using structured illumination microscopy}}
+      \field{volume}{198}
+      \field{year}{2000}
+      \field{pages}{82\bibrangedash 87}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1046/j.1365-2818.2000.00710.x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1046/j.1365-2818.2000.00710.x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1046/j.1365-2818.2000.00710.x
+      \endverb
+    \endentry
+    \entry{heintzmann-2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8cf18f0ac464fed9764ee60b68e4924f}{%
+           family={Heintzmann},
+           familyi={H\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6bf5167ef89e23594932bf9cefa941c6}{%
+           family={Huser},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ff825f70bbba92f8ae70198947358e1}
+      \strng{fullhash}{4ff825f70bbba92f8ae70198947358e1}
+      \strng{bibnamehash}{4ff825f70bbba92f8ae70198947358e1}
+      \strng{authorbibnamehash}{4ff825f70bbba92f8ae70198947358e1}
+      \strng{authornamehash}{4ff825f70bbba92f8ae70198947358e1}
+      \strng{authorfullhash}{4ff825f70bbba92f8ae70198947358e1}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chemical Reviews}
+      \field{month}{11}
+      \field{number}{23}
+      \field{title}{{Super-Resolution Structured Illumination Microscopy}}
+      \field{volume}{117}
+      \field{year}{2017}
+      \field{pages}{13890\bibrangedash 13908}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1021/acs.chemrev.7b00218
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/acs.chemrev.7b00218
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/acs.chemrev.7b00218
+      \endverb
+    \endentry
+    \entry{microscope-picture}{article}{}
+      \name{author}{8}{}{%
+        {{hash=984e708a752854c198230fb782350e36}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Ying},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=fad7dd289687eedd38c452f00ec17f43}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod}}}%
+        {{hash=1c1849178c68a5d6d69e9f789392d65d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Min},
+           giveni={M\bibinitperiod}}}%
+        {{hash=60db274da36e917f8b3aa11145007798}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Juanjuan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0d9627eec737e4fd15e62437d94b43ad}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Kaiqin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f5da1660686863cbd1bd5b013820b41a}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Zachary\bibnamedelima J},
+           giveni={Z\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e574e48cb1f186454b1f1641404c9bbe}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Lixin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=656b3ff4b37de857f99ac65a3f95c61b}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{283195f6c7d38256e7f7201bf80dad14}
+      \strng{fullhash}{f17a7aab2447c3712696c6145310d4ad}
+      \strng{bibnamehash}{283195f6c7d38256e7f7201bf80dad14}
+      \strng{authorbibnamehash}{283195f6c7d38256e7f7201bf80dad14}
+      \strng{authornamehash}{283195f6c7d38256e7f7201bf80dad14}
+      \strng{authorfullhash}{f17a7aab2447c3712696c6145310d4ad}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics Photonics}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{{Recent advances in structured illumination microscopy}}
+      \field{volume}{3}
+      \field{year}{2021}
+      \field{pages}{024009}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/2515-7647/abdb04
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/2515-7647/abdb04
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/2515-7647/abdb04
+      \endverb
+    \endentry
+    \entry{sim_image_reconstruction_adaptation}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Structured Illumination Microscopy and 3D SIM Imaging- Oxford Instruments}
+      \verb{urlraw}
+      \verb https://andor.oxinst.com/learning/view/article/super-resolution-imaging-structured-illumination-microscopy
+      \endverb
+      \verb{url}
+      \verb https://andor.oxinst.com/learning/view/article/super-resolution-imaging-structured-illumination-microscopy
+      \endverb
+    \endentry
+    \entry{fairSIM}{article}{}
+      \name{author}{5}{}{%
+        {{hash=42c3dd84afe0d86f0fce322b6205bafc}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Marcel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=547c06745f4e29567a4c19fdd97bb8d2}{%
+           family={Mönkemöller},
+           familyi={M\bibinitperiod},
+           given={Viola},
+           giveni={V\bibinitperiod}}}%
+        {{hash=224657d73f9952332fd66c0eea559730}{%
+           family={Hennig},
+           familyi={H\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=68a319f9545a3d50e51e47556cd1528c}{%
+           family={Hübner},
+           familyi={H\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=6bf5167ef89e23594932bf9cefa941c6}{%
+           family={Huser},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{37f475f5ed5195056f7c944e0c9c0777}
+      \strng{fullhash}{25c0d6ae9f6d7ac50d8ccb12fba622a0}
+      \strng{bibnamehash}{25c0d6ae9f6d7ac50d8ccb12fba622a0}
+      \strng{authorbibnamehash}{25c0d6ae9f6d7ac50d8ccb12fba622a0}
+      \strng{authornamehash}{37f475f5ed5195056f7c944e0c9c0777}
+      \strng{authorfullhash}{25c0d6ae9f6d7ac50d8ccb12fba622a0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Communications}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{{Open-source image reconstruction of super-resolution structured illumination microscopy data in ImageJ}}
+      \field{volume}{7}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1038/ncomms10980
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/ncomms10980
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/ncomms10980
+      \endverb
+    \endentry
+    \entry{heintzmann}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8cf18f0ac464fed9764ee60b68e4924f}{%
+           family={Heintzmann},
+           familyi={H\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod}}}%
+        {{hash=3c27db10638530b0ab27a629d1778b52}{%
+           family={Cremer},
+           familyi={C\bibinitperiod},
+           given={Christoph\bibnamedelima G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{1716c5a62572c947dab0590c620a420e}
+      \strng{fullhash}{1716c5a62572c947dab0590c620a420e}
+      \strng{bibnamehash}{1716c5a62572c947dab0590c620a420e}
+      \strng{authorbibnamehash}{1716c5a62572c947dab0590c620a420e}
+      \strng{authornamehash}{1716c5a62572c947dab0590c620a420e}
+      \strng{authorfullhash}{1716c5a62572c947dab0590c620a420e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE}
+      \field{month}{1}
+      \field{title}{{Laterally modulated excitation microscopy: improvement of resolution by using a diffraction grating}}
+      \field{year}{1999}
+      \verb{doi}
+      \verb 10.1117/12.336833
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1117/12.336833
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1117/12.336833
+      \endverb
+    \endentry
+    \entry{microtubules}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7ccc9cdbef5f605f75a15aad77926b2f}{%
+           family={Waterman-Storer},
+           familyi={W\bibinithyphendelim S\bibinitperiod},
+           given={Clare\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7ccc9cdbef5f605f75a15aad77926b2f}
+      \strng{fullhash}{7ccc9cdbef5f605f75a15aad77926b2f}
+      \strng{bibnamehash}{7ccc9cdbef5f605f75a15aad77926b2f}
+      \strng{authorbibnamehash}{7ccc9cdbef5f605f75a15aad77926b2f}
+      \strng{authornamehash}{7ccc9cdbef5f605f75a15aad77926b2f}
+      \strng{authorfullhash}{7ccc9cdbef5f605f75a15aad77926b2f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Molecular Biology of the Cell}
+      \field{month}{12}
+      \field{number}{12}
+      \field{title}{{Microtubules and Microscopes: How the Development of Light Microscopic Imaging Technologies Has Contributed to Discoveries about Microtubule Dynamics in Living Cells}}
+      \field{volume}{9}
+      \field{year}{1998}
+      \field{pages}{3263\bibrangedash 3271}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1091/mbc.9.12.3263
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1091/mbc.9.12.3263
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1091/mbc.9.12.3263
+      \endverb
+    \endentry
+    \entry{f-actin}{article}{}
+      \name{author}{4}{}{%
+        {{hash=c4d8c39e3a63acab6d94c490b6d45028}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=94516c5548a40ca9fcffc970822fa402}{%
+           family={Mollaeian},
+           familyi={M\bibinitperiod},
+           given={Keyvan},
+           giveni={K\bibinitperiod}}}%
+        {{hash=ebfc146772816fc41512daa30936d4fd}{%
+           family={Shamim},
+           familyi={S\bibinitperiod},
+           given={Muhammad\bibnamedelima Huzaifah},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=fb5bde629b9e3b02681b1195b342bc89}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Juan},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{25448043b1d5de956b2f207fbb4e3dea}
+      \strng{fullhash}{fa1a13ce283caefe544ae4013bdecdb0}
+      \strng{bibnamehash}{fa1a13ce283caefe544ae4013bdecdb0}
+      \strng{authorbibnamehash}{fa1a13ce283caefe544ae4013bdecdb0}
+      \strng{authornamehash}{25448043b1d5de956b2f207fbb4e3dea}
+      \strng{authorfullhash}{fa1a13ce283caefe544ae4013bdecdb0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Molecular Sciences}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{{Effect of F-actin and microtubules on cellular mechanical behavior studied using atomic force microscope and an Image Recognition-Based cytoskeleton quantification approach}}
+      \field{volume}{21}
+      \field{year}{2020}
+      \field{pages}{392}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/ijms21020392
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3390/ijms21020392
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3390/ijms21020392
+      \endverb
+    \endentry
+    \entry{DFCAN}{article}{}
+      \name{author}{7}{}{%
+        {{hash=92ff51ddaadbf5035fa0c4ce5e16841e}{%
+           family={Qiao},
+           familyi={Q\bibinitperiod},
+           given={Chang},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e16c2dbc9de83b1e4abe905d2b6d3045}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Di},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0848f34af9a25e76c04e6c63a9929127}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Yuting},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c2b4d5e33e17c7fe5a8dd2d261735cae}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Chong},
+           giveni={C\bibinitperiod}}}%
+        {{hash=fcb33f0c8626d335119785afb031c1db}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d83edf2dbb3c07dbf92abbdcaa5c5ed2}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Qionghai},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=ecfd1d34e9c9c1aec231ae3da61ff906}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Dong},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b827b5688ac3d9d56488a956f9595756}
+      \strng{fullhash}{a01aeee24657d77439f1b47f4489b44c}
+      \strng{bibnamehash}{b827b5688ac3d9d56488a956f9595756}
+      \strng{authorbibnamehash}{b827b5688ac3d9d56488a956f9595756}
+      \strng{authornamehash}{b827b5688ac3d9d56488a956f9595756}
+      \strng{authorfullhash}{a01aeee24657d77439f1b47f4489b44c}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Methods}
+      \field{month}{1}
+      \field{number}{2}
+      \field{title}{{Evaluation and development of deep neural networks for image super-resolution in optical microscopy}}
+      \field{volume}{18}
+      \field{year}{2021}
+      \field{pages}{194\bibrangedash 202}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1038/s41592-020-01048-5
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41592-020-01048-5
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41592-020-01048-5
+      \endverb
+    \endentry
+    \entry{U-net}{book}{}
+      \name{author}{3}{}{%
+        {{hash=8e46da9de9e53ea5d37089897d69cdd9}{%
+           family={Ronneberger},
+           familyi={R\bibinitperiod},
+           given={Olaf},
+           giveni={O\bibinitperiod}}}%
+        {{hash=168e84ce3582cbc6bac5e2ebc3ef8442}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=b452a32296958371572717940f900884}{%
+           family={Brox},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{9a497128db448eba9bbb6e27b1ed57ed}
+      \strng{fullhash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{bibnamehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{authorbibnamehash}{f23ccc5160c62c7866172335b2c76e11}
+      \strng{authornamehash}{9a497128db448eba9bbb6e27b1ed57ed}
+      \strng{authorfullhash}{f23ccc5160c62c7866172335b2c76e11}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Lecture notes in computer science}
+      \field{month}{1}
+      \field{title}{{U-NET: Convolutional Networks for Biomedical Image Segmentation}}
+      \field{year}{2015}
+      \field{pages}{234\bibrangedash 241}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1007/978-3-319-24574-4\{_}28
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-319-24574-4_28
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-319-24574-4_28
+      \endverb
+    \endentry
+    \entry{Scu-net}{article}{}
+      \name{author}{9}{}{%
+        {{hash=d91ed1c3826e0821cdd15081e29c6994}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Luhong},
+           giveni={L\bibinitperiod}}}%
+        {{hash=3342346b9868dfc3f4b9f0f8fa309583}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Bei},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7aca5d3bb7d5137087f9e373e5e47d52}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Fenqiang},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ca2c0eb04ee14094c115b140d2a3fb25}{%
+           family={Hahn},
+           familyi={H\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=452070ec09ca21ac09b9b472fb29ab73}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Bowei},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6c4fc21f921d3a29d777ca485401b232}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Ruiyan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d75a62f3fbaf38f0b23a6d8eef1d0ced}{%
+           family={Elston},
+           familyi={E\bibinitperiod},
+           given={Timothy\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ba1c91ee2b2adcaf7684c37df9cee847}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Yingke},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=1ddaa21a134f5e8b072967136c6bb46e}{%
+           family={Hahn},
+           familyi={H\bibinitperiod},
+           given={Klaus\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3422e0bac8c26c341f697e8323d178ae}
+      \strng{fullhash}{58d4ad107c6146423df15ddc1ac8441a}
+      \strng{bibnamehash}{3422e0bac8c26c341f697e8323d178ae}
+      \strng{authorbibnamehash}{3422e0bac8c26c341f697e8323d178ae}
+      \strng{authornamehash}{3422e0bac8c26c341f697e8323d178ae}
+      \strng{authorfullhash}{58d4ad107c6146423df15ddc1ac8441a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Communications}
+      \field{month}{4}
+      \field{number}{1}
+      \field{title}{{Deep learning enables structured illumination microscopy with low light levels and enhanced speed}}
+      \field{volume}{11}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1038/s41467-020-15784-x
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41467-020-15784-x
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41467-020-15784-x
+      \endverb
+    \endentry
+    \entry{psnr-paper}{article}{}
+      \name{author}{4}{}{%
+        {{hash=4585ae8f6067ca584fb62ab4148f3d5f}{%
+           family={Fardo},
+           familyi={F\bibinitperiod},
+           given={Fernando\bibnamedelima A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=63a7bea258cfa1862e4d98416b123538}{%
+           family={Conforto},
+           familyi={C\bibinitperiod},
+           given={Victor\bibnamedelima H.},
+           giveni={V\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=31cf7eb24124e5ee29135fb0881b8c1d}{%
+           family={C},
+           familyi={C\bibinitperiod},
+           given={De\bibnamedelima Oliveira\bibnamedelima Francisco},
+           giveni={D\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=8f1c5d9a00190350c7a5c0bca1ff2939}{%
+           family={Rodrigues},
+           familyi={R\bibinitperiod},
+           given={Paulo\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{90efe4154f4eb69f980821c771ebda96}
+      \strng{fullhash}{45449fb26a39fb7e5e2e1417119a42e8}
+      \strng{bibnamehash}{45449fb26a39fb7e5e2e1417119a42e8}
+      \strng{authorbibnamehash}{45449fb26a39fb7e5e2e1417119a42e8}
+      \strng{authornamehash}{90efe4154f4eb69f980821c771ebda96}
+      \strng{authorfullhash}{45449fb26a39fb7e5e2e1417119a42e8}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv (Cornell University)}
+      \field{month}{1}
+      \field{title}{{A Formal Evaluation of PSNR as Quality Measurement Parameter for Image Segmentation Algorithms}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.48550/arxiv.1605.07116
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1605.07116
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1605.07116
+      \endverb
+    \endentry
+    \entry{CARE}{article}{}
+      \name{author}{21}{}{%
+        {{hash=604f92fccf7c99ee604328a98a42f1bb}{%
+           family={Weigert},
+           familyi={W\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod}}}%
+        {{hash=93c6c9641652d07c188ccbb8109a0547}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod}}}%
+        {{hash=60c267f390103ef50b2756572d5a2007}{%
+           family={Boothe},
+           familyi={B\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b6cfa06c6d110548dbb088a1445563f5}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=87d04c256f3e9fcf25feab4e397db2e1}{%
+           family={Dibrov},
+           familyi={D\bibinitperiod},
+           given={Alexandr},
+           giveni={A\bibinitperiod}}}%
+        {{hash=42729138f773a31fbe30d0f343f54e18}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Akanksha},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b07f281e45b530ce0451773e2a5b105c}{%
+           family={Wilhelm},
+           familyi={W\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=2d48b45b6f0eccff6f4a3c97513e0694}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1189f48523f0992553255083ce67e872}{%
+           family={Broaddus},
+           familyi={B\bibinitperiod},
+           given={Coleman},
+           giveni={C\bibinitperiod}}}%
+        {{hash=abb0ca1ef18a0422e301a73c8ac51656}{%
+           family={Culley},
+           familyi={C\bibinitperiod},
+           given={Siân},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ce0c29612654c9c09b4480b86d9e072e}{%
+           family={Rocha-Martins},
+           familyi={R\bibinithyphendelim M\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=de7ac9157831da62607455ab0559245f}{%
+           family={Segovia-Miranda},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Fabián},
+           giveni={F\bibinitperiod}}}%
+        {{hash=ebd326148fb06ac109df4b1b25117b62}{%
+           family={Norden},
+           familyi={N\bibinitperiod},
+           given={Caren},
+           giveni={C\bibinitperiod}}}%
+        {{hash=00c6ffdfe5847c39ca5cd2c57151db93}{%
+           family={Henriques},
+           familyi={H\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod}}}%
+        {{hash=06f61538ea12e186b1dc903a756823a8}{%
+           family={Zerial},
+           familyi={Z\bibinitperiod},
+           given={Marino},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9d55e84937212b85ddf5d7ea4f2c3d01}{%
+           family={Solimena},
+           familyi={S\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod}}}%
+        {{hash=23eb651a7d6a2cce5baa2bac863d64c4}{%
+           family={Rink},
+           familyi={R\bibinitperiod},
+           given={Jochen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6166a3f540ffe514a2b0a8932f8fca1c}{%
+           family={Tomancak},
+           familyi={T\bibinitperiod},
+           given={Pavel},
+           giveni={P\bibinitperiod}}}%
+        {{hash=8271b16c3f22b3da9b27432f1d6dd888}{%
+           family={Royer},
+           familyi={R\bibinitperiod},
+           given={Loic},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7c195d58ba54c8fac8cd33e3d7385586}{%
+           family={Jug},
+           familyi={J\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=0df3272f32e5082671c327a5b8a0f352}{%
+           family={Myers},
+           familyi={M\bibinitperiod},
+           given={Eugene\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{35ff45eec1b8160d638526de2d106494}
+      \strng{fullhash}{ddb6694ba8745e0fd113b7019488773b}
+      \strng{bibnamehash}{35ff45eec1b8160d638526de2d106494}
+      \strng{authorbibnamehash}{35ff45eec1b8160d638526de2d106494}
+      \strng{authornamehash}{35ff45eec1b8160d638526de2d106494}
+      \strng{authorfullhash}{ddb6694ba8745e0fd113b7019488773b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Methods}
+      \field{month}{11}
+      \field{number}{12}
+      \field{title}{{Content-aware image restoration: pushing the limits of fluorescence microscopy}}
+      \field{volume}{15}
+      \field{year}{2018}
+      \field{pages}{1090\bibrangedash 1097}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1038/s41592-018-0216-7
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41592-018-0216-7
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41592-018-0216-7
+      \endverb
+    \endentry
+    \entry{ssim_paper}{article}{}
+      \name{author}{4}{}{%
+        {{hash=cc4aadc875d7abdbaf96dfa4a83d8b77}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=6192fbf30c45211fdfc67652236bec72}{%
+           family={Bovik},
+           familyi={B\bibinitperiod},
+           given={A.C.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=84051ed6c4d99d3ccc763a9bfdfd28a8}{%
+           family={Sheikh},
+           familyi={S\bibinitperiod},
+           given={H.R.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=071228688c89a654d8f1b7ca8d022a6f}{%
+           family={Simoncelli},
+           familyi={S\bibinitperiod},
+           given={E.P.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3deddfd5334afe8de95e47549d6b5a86}
+      \strng{fullhash}{5404630126e6caa42a11bff978c2bbdf}
+      \strng{bibnamehash}{5404630126e6caa42a11bff978c2bbdf}
+      \strng{authorbibnamehash}{5404630126e6caa42a11bff978c2bbdf}
+      \strng{authornamehash}{3deddfd5334afe8de95e47549d6b5a86}
+      \strng{authorfullhash}{5404630126e6caa42a11bff978c2bbdf}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Image Processing}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{{Image quality assessment: From error visibility to structural similarity}}
+      \field{volume}{13}
+      \field{year}{2004}
+      \field{pages}{600\bibrangedash 612}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/tip.2003.819861
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1109/tip.2003.819861
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1109/tip.2003.819861
+      \endverb
+    \endentry
+    \entry{ms-ssim}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=cc4aadc875d7abdbaf96dfa4a83d8b77}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=071228688c89a654d8f1b7ca8d022a6f}{%
+           family={Simoncelli},
+           familyi={S\bibinitperiod},
+           given={E.P.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=6192fbf30c45211fdfc67652236bec72}{%
+           family={Bovik},
+           familyi={B\bibinitperiod},
+           given={A.C.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{3deddfd5334afe8de95e47549d6b5a86}
+      \strng{fullhash}{b3cbad8094e208e2873882f43113bf95}
+      \strng{bibnamehash}{b3cbad8094e208e2873882f43113bf95}
+      \strng{authorbibnamehash}{b3cbad8094e208e2873882f43113bf95}
+      \strng{authornamehash}{3deddfd5334afe8de95e47549d6b5a86}
+      \strng{authorfullhash}{b3cbad8094e208e2873882f43113bf95}
+      \field{extraname}{2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Thrity-Seventh Asilomar Conference on Signals, Systems and Computers, 2003}
+      \field{title}{Multiscale structural similarity for image quality assessment}
+      \field{volume}{2}
+      \field{year}{2003}
+      \field{pages}{1398\bibrangedash 1402 Vol.2}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1109/ACSSC.2003.1292216
+      \endverb
+      \keyw{Image quality;Signal processing;Humans;Visual system;Data mining;Layout;Distortion measurement;Displays;Optical filters;Electric variables measurement}
+    \endentry
+    \entry{resolution_test}{article}{}
+      \name{author}{3}{}{%
+        {{hash=0cfb1ec92e62b497c6dbac4a4de78bda}{%
+           family={Descloux},
+           familyi={D\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e548297cc3d4ba5683355a5cf2eadfed}{%
+           family={Grußmayer},
+           familyi={G\bibinitperiod},
+           given={K.\bibnamedelimi S.},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=24e66b62543706bbea29928621dae74c}{%
+           family={Radenovic},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6cd65edb04b3dc049360ae6fde3fd6f5}
+      \strng{fullhash}{db540d8ea873f9d0fd0fd433751d8f1f}
+      \strng{bibnamehash}{db540d8ea873f9d0fd0fd433751d8f1f}
+      \strng{authorbibnamehash}{db540d8ea873f9d0fd0fd433751d8f1f}
+      \strng{authornamehash}{6cd65edb04b3dc049360ae6fde3fd6f5}
+      \strng{authorfullhash}{db540d8ea873f9d0fd0fd433751d8f1f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Methods}
+      \field{month}{8}
+      \field{number}{9}
+      \field{title}{{Parameter-free image resolution estimation based on decorrelation analysis}}
+      \field{volume}{16}
+      \field{year}{2019}
+      \field{pages}{918\bibrangedash 924}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1038/s41592-019-0515-7
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41592-019-0515-7
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41592-019-0515-7
+      \endverb
+    \endentry
+    \entry{image_capture_in_microscopy}{article}{}
+      \name{author}{7}{}{%
+        {{hash=8856fc5199d523d27ee3871afb1c482d}{%
+           family={Markwirth},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c12aad67f5cafc77394adb22184de3c0}{%
+           family={Lachetta},
+           familyi={L\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod}}}%
+        {{hash=547c06745f4e29567a4c19fdd97bb8d2}{%
+           family={Mönkemöller},
+           familyi={M\bibinitperiod},
+           given={Viola},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8cf18f0ac464fed9764ee60b68e4924f}{%
+           family={Heintzmann},
+           familyi={H\bibinitperiod},
+           given={Rainer},
+           giveni={R\bibinitperiod}}}%
+        {{hash=68a319f9545a3d50e51e47556cd1528c}{%
+           family={Hübner},
+           familyi={H\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=6bf5167ef89e23594932bf9cefa941c6}{%
+           family={Huser},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=42c3dd84afe0d86f0fce322b6205bafc}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Marcel},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{20e0eeefff4b0d75c88dcc1b40b06777}
+      \strng{fullhash}{37ca52ce268f7899d9e56c114bfd6d08}
+      \strng{bibnamehash}{20e0eeefff4b0d75c88dcc1b40b06777}
+      \strng{authorbibnamehash}{20e0eeefff4b0d75c88dcc1b40b06777}
+      \strng{authornamehash}{20e0eeefff4b0d75c88dcc1b40b06777}
+      \strng{authorfullhash}{37ca52ce268f7899d9e56c114bfd6d08}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Communications}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{{Video-rate multi-color structured illumination microscopy with simultaneous real-time reconstruction}}
+      \field{volume}{10}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1038/s41467-019-12165-x
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41467-019-12165-x
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41467-019-12165-x
+      \endverb
+    \endentry
+    \entry{BioSR}{dataset}{}
+      \name{author}{1}{}{%
+        {{hash=92ff51ddaadbf5035fa0c4ce5e16841e}{%
+           family={Qiao},
+           familyi={Q\bibinitperiod},
+           given={Chang},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Zenodo}%
+      }
+      \strng{namehash}{92ff51ddaadbf5035fa0c4ce5e16841e}
+      \strng{fullhash}{92ff51ddaadbf5035fa0c4ce5e16841e}
+      \strng{bibnamehash}{92ff51ddaadbf5035fa0c4ce5e16841e}
+      \strng{authorbibnamehash}{92ff51ddaadbf5035fa0c4ce5e16841e}
+      \strng{authornamehash}{92ff51ddaadbf5035fa0c4ce5e16841e}
+      \strng{authorfullhash}{92ff51ddaadbf5035fa0c4ce5e16841e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{BioSR+: Dataset Extension of biological images for super-resolution microscopy}
+      \field{version}{v1}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.5281/zenodo.7115540
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.7115540
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.7115540
+      \endverb
+    \endentry
+    \entry{augmentation_hyperplane}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=6c213043d0496e238de60dc073e6c668}{%
+           family={A.Dosovitskiy},
+           familyi={A\bibinitperiod}}}%
+        {{hash=a9f4ba4a35095cd46bebe63db20f062f}{%
+           family={J.T.Springenberg},
+           familyi={J\bibinitperiod}}}%
+        {{hash=ca04284eddaec196d3e3bd926f48baef}{%
+           family={M.Riedmiller},
+           familyi={M\bibinitperiod}}}%
+        {{hash=058f8b9625516d82ef63ca2deabed5c7}{%
+           family={T.Brox},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{8cb6e0a335a231fc7cb81761cb7275f2}
+      \strng{fullhash}{8d4c57cf0d090e705a4e0dfea0a96e6a}
+      \strng{bibnamehash}{8d4c57cf0d090e705a4e0dfea0a96e6a}
+      \strng{authorbibnamehash}{8d4c57cf0d090e705a4e0dfea0a96e6a}
+      \strng{authornamehash}{8cb6e0a335a231fc7cb81761cb7275f2}
+      \strng{authorfullhash}{8d4c57cf0d090e705a4e0dfea0a96e6a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Neural Information Processing Systems 27 (NIPS)}
+      \field{title}{Discriminative Unsupervised Feature Learning with Convolutional Neural Networks}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb http://lmb.informatik.uni-freiburg.de/Publications/2014/DB14b
+      \endverb
+      \verb{url}
+      \verb http://lmb.informatik.uni-freiburg.de/Publications/2014/DB14b
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
